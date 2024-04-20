@@ -1,0 +1,14 @@
+C:\Users\Andrei.Veeremaa\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Andrei.Veeremaa\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Andrei.Veeremaa\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Andrei.Veeremaa\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Andrei.Veeremaa\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Andrei.Veeremaa\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Andrei.Veeremaa\Documents\Visual Studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\ASA3103\Downloads\structs\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\ASA3103\Downloads\structs\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\ASA3103\Downloads\structs\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\ASA3103\Downloads\structs\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\ASA3103\Downloads\structs\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\ASA3103\Downloads\structs\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\ASA3103\Downloads\structs\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
